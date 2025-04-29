@@ -29,7 +29,7 @@ dependencies:
   dotted_border: ^2.0.0+2
   flutter_svg: ^2.0.6
   image_picker: ^0.8.9
-  file_picker: ^5.3.0
+  file_picker: ^10.1.2
   tencent_super_tooltip: ^0.0.1
   better_player_plus: ^1.0.8
   video_player: ^2.9.2
